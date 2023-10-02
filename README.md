@@ -42,7 +42,7 @@ To get started with any project in this repository, follow these general steps:
 1. **Clone the Repository**: Clone this repository to your local machine.
 
    ```
-   git clone [https://github.com/Isaac-Zimba-J/machine-learning-projects](https://github.com/Isaac-Zimba-J/Machine-Learning).git
+   git clone https://github.com/Isaac-Zimba-J/machine-learning-projects.git
    ```
 
 2. **Navigate to a Project**: Go to the directory of the specific project you want to explore.
